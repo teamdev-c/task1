@@ -1,5 +1,12 @@
 .container {
-    display:flex;
-    flex-flow: column;
-    align-items: center;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+}
+
+h1 {
+  color: white;
+  padding: 12px;
+  background-color: gray;
+  border-radius: 16px;
 }
